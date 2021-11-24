@@ -1,2 +1,3 @@
 # Newnotes
-Notes
+
+[View](https://csqbest.github.io/Newnotes/)
